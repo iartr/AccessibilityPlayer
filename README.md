@@ -1,4 +1,4 @@
-[![CI](https://github.com/iartr/SmartMirror/actions/workflows/debug.yml/badge.svg)](https://github.com/iartr/SmartMirror/actions/workflows/debug.yml)
+[![CI pipeline](https://github.com/iartr/AccessibilityPlayer/actions/workflows/build-pipeline.yml/badge.svg)](https://github.com/iartr/AccessibilityPlayer/actions/workflows/build-pipeline.yml)
 
 ### Установка
 Для проверки решения достаточно [скачать](https://disk.yandex.ru/d/YDsyLZ614AQqRQ) установочный APK файл и запустить на любом Android устройстве.
